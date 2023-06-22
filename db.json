@@ -1,0 +1,24 @@
+{
+  users: [
+	{
+		"email": "penatibus.et@protonmail.com",
+		"password": "risus"
+	},
+	{
+		"email": "mattis.ornare.lectus@icloud.edu",
+		"password": "placerat,"
+	},
+	{
+		"email": "purus.gravida@yahoo.edu",
+		"password": "elit"
+	},
+	{
+		"email": "non.enim@icloud.edu",
+		"password": "dui."
+	},
+	{
+		"email": "fermentum@icloud.edu",
+		"password": "nonummy"
+	}
+]
+}
